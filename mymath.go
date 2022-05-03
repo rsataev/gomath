@@ -1,4 +1,4 @@
-package arithmetic
+package github.com/rsataev/gomath
 
 func Factorial(n int) int {
 	var f int = 1
