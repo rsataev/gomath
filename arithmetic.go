@@ -1,4 +1,4 @@
-package github.com/rsataev/gomath
+package arithmetic
 
 // Checks if a number is prime or not
 func IsPrime(num int) bool {
