@@ -1,4 +1,4 @@
-package arithmetics
+package arithmetic
 
 func Factorial(n int) int {
 	var f int = 1
