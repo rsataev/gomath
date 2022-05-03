@@ -1,4 +1,4 @@
-package arithmetic
+package v2/arithmetic
 
 // Checks if a number is prime or not
 func IsPrime(num int) bool {
