@@ -1,3 +1,3 @@
-module packages/mypackage
+module github.com/rsataev/gomath
 
 go 1.17
