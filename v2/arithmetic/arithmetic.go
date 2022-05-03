@@ -21,3 +21,11 @@ func Factorial(n int) int {
 func Sub(a, b int) int {
 	return a - b
 }
+
+func Add(a ...int) int {
+	s := 0
+	for _,v := range a {
+	   s += v
+	}
+	return s
+}
